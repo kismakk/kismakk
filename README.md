@@ -13,7 +13,7 @@ Enthusiastic engineering student pursuing a B.Eng. in Software Development, spec
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kismakk&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kismakk&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kismakk&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kismakk&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kismakk&icon=5&color=10)](https://visitcount.itsvg.in)
