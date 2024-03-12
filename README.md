@@ -2,9 +2,6 @@
 
 Enthusiastic engineering student pursuing a B.Eng. in Software Development, specifically interested in web development and mobile development!
 
-🔭 I’m currently working on designing a mobile flip card application to aid people in studying for e.g. university courses<br><br>📖 I’m currently learning mobile development with Kotlin (Android Studio) & cross-platform development with React-Native<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samikongas) 
 
