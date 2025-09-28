@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Enthusiastic engineering student pursuing a B.Eng. in Software Development. Currently broadening my knowledge of Python, software testing methodologies, and DevOps tools, such as Docker and Terraform.
+Enthusiastic engineering student pursuing a B.Eng. in Software Development!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samikongas) 
